@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Emblema One', cursive;
+    color: #ffffff;
+}
+
+#haut{
+    background-color: #e60012;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#titre{
+    margin: 8px;
+    width: 8%;
+    font-size: 20px;
+    border: 3px solid #ffffff;
+    border-radius: 18px;
+}
+
+#nintendo{
+    margin: 1px;
+    text-align: center;
+}
+
+#suite{
+    position: fixed;
+    right: 140px;
+    top: 10px;
+}
+
+.myNin{
+    text-align: center;
+    font-size: 6px;
+    position: fixed;
+    right: 85px;
+    top: 10px;
+}
+
+#connect{
+    margin-right: 10px;
+    font-family: Calibri;
+    font-size: 10px;
+    position: fixed;
+    right: 5px;
+    top: 25px;
+}
+
+.cote{
+    background-color: #e60012;
+    width: 90px;
+    text-align: center;
+}
+
+.text{
+    font-family: Calibri;
+    font-size: 12px;
+    height: 5px;
+}
+
+p{
+    margin: 2px;
+    padding: 2px;
+}
+
+.bouton{
+    height: 90px;
+    padding-top: 5px;
+    border: 1px solid black;
+    border-radius: 0 20px 0 0 ;
+}
+
+#social{
+    height: 60px;
+    padding-top: 30px;
+    border: 1px solid black;
+    border-radius: 0 20px 0 0 ;
+}
